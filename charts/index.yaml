@@ -9,5 +9,5 @@ entries:
     type: application
     urls:
     - https://vkazmin1.github.io/korifi/charts/korifi-0.15.1.tgz
-    version: 0.0.0-dev
+    version: 0.15.1
 generated: "2025-05-07T09:35:30.817759+02:00"
