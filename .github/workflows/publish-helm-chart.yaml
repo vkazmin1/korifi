@@ -3,7 +3,9 @@ name: Publish Helm Chart to gh-pages
 on:
   release:
     types:
+
       - released  # Trigger only on actual GitHub Releases
+
 
 permissions:
   contents: write
