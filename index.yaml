@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   korifi:
   - apiVersion: v2
-    appVersion: 0.15.1
-    created: "2025-05-13T13:02:14.315567436Z"
+    appVersion: 0.0.0-dev
+    created: "2025-05-13T13:05:48.457537474Z"
     description: A Helm chart to deploy all Korifi components
-    digest: e7ada5b28734431788e8fda522e793cef796cfae9c48e4ad2a199d879c00cef3
+    digest: c542387a7c68c6e6ba646423f9730e286487b51bb13b68cea0dbb468f33c6cff
     name: korifi
     type: application
     urls:
-    - https://vkazmin1.github.io/korifi/korifi-0.15.1.tgz
-    version: 0.15.1
-generated: "2025-05-13T13:02:14.313616462Z"
+    - https://vkazmin1.github.io/korifi/korifi-0.0.0-dev.tgz
+    version: 0.0.0-dev
+generated: "2025-05-13T13:05:48.454502445Z"
