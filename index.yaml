@@ -3,7 +3,7 @@ entries:
   korifi:
   - apiVersion: v2
     appVersion: dev
-    created: "2025-05-13T11:47:53.055989961Z"
+    created: "2025-05-13T11:52:18.742795775Z"
     description: A Helm chart to deploy all Korifi components
     digest: 728a641a87a9d6897288c0a0566cf9b7a92df171c071eae6817478b7100ad9a8
     name: korifi
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://vkazmin1.github.io/korifi/chart.tgz
     version: 0.2.0
-generated: "2025-05-13T11:47:53.052163062Z"
+generated: "2025-05-13T11:52:18.735128643Z"
