@@ -23,12 +23,12 @@ entries:
     version: 0.15.9
   - apiVersion: v2
     appVersion: dev
-    created: "2025-05-15T16:46:02.626468377Z"
+    created: "2025-05-15T16:56:34.9569044Z"
     description: A Helm chart to deploy all Korifi components
     digest: 728a641a87a9d6897288c0a0566cf9b7a92df171c071eae6817478b7100ad9a8
     name: korifi
     type: application
     urls:
-    - https://cloudfoundry.github.io/korifi/chart.tgz
+    - https://cloudfoundry.github.io/korifi/korifi-0.15.12.tgz
     version: 0.2.0
-generated: "2025-05-15T16:46:02.622770337Z"
+generated: "2025-05-15T16:56:34.954865629Z"
